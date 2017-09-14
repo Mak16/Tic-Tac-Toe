@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1504595338 source:c:\users\hass\desktop\game\game\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<stdio.h>
+	<conio.h>
+
+1505417624 source:f:\game\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
