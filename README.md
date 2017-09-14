@@ -5,7 +5,7 @@ This is very famous and one of the most easiest game. Popularly known as "kattis
 
 * Instruction :
 
--> This game is built in codeblocks- windowsso might have some problems to the other os systems.
--> Any changes , creativity , sugestion are welcome and you can give suugestion by email - mahendra.patel16474@gmail.com
+-> This game is built in codeblocks- windows so might have some problems to the other OS systems.
+-> Any changes , creativity , sugestion are welcome and you can give sugestion by email - mahendra.patel16474@gmail.com
 
 
